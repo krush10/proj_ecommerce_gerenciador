@@ -1,0 +1,153 @@
+body{
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;	
+}
+
+.header{
+	width:100%;
+	height:130px;
+	background:url(../img/header_fundo.png);	
+}
+
+.header .header_margin{
+	width:980px;
+	height:130px;
+	margin:0 auto;	
+}
+
+.header .header_margin #logo_krush{
+	padding:20px;
+        margin-left: 2px;
+}
+
+.header .header_margin #bem-vindo{
+	margin-top:-80px;
+	margin-left:90px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;	
+}
+
+.header .header_margin #menu{
+	margin-top:20px;
+	margin-left:87px;	
+}
+
+.header .header_margin #btn_sair{
+	margin-top:-78px;
+	margin-left:900px;	
+}
+
+.header .header_margin #icone_admin{
+	margin-top:67px;
+	margin-left:20px;	
+}
+
+.header #sub_menu_loja{
+	margin-top:-16px;
+	margin-left:87px;
+	display:none;
+}
+
+.header #sub_menu_loja a{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:none;
+	color:#333333;
+	margin-right:3px;
+}
+
+.header #sub_menu_loja a:hover{
+        text-decoration: underline;
+}
+
+.header #sub_menu_categoria{
+	margin-top:-16px;
+	margin-left:87px;
+	display:none;
+}
+
+.header #sub_menu_categoria a{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:none;
+	color:#333333;
+	margin-right:3px;
+}
+
+.header #sub_menu_categoria a:hover{
+	text-decoration:underline;	
+}
+
+.header #sub_menu_sub_categoria{
+	margin-top:-16px;
+	margin-left:87px;
+	display:none;
+}
+
+.header #sub_menu_sub_categoria a{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:none;
+	color:#333333;
+	margin-right:3px;
+}
+
+.header #sub_menu_sub_categoria a:hover{
+	text-decoration:underline;	
+}
+
+.header #sub_menu_produto{
+	margin-top:-16px;
+	margin-left:87px;
+	display:none;
+}
+
+.header #sub_menu_produto a{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:none;
+	color:#333333;
+	margin-right:3px;
+}
+
+.header #sub_menu_produto a:hover{
+	text-decoration:underline;	
+}
+
+.header #sub_menu_clientes{
+	margin-top:-16px;
+	margin-left:87px;
+	display:none;
+}
+
+.header #sub_menu_clientes a{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:none;
+	color:#333333;
+	margin-right:3px;
+}
+
+.header #sub_menu_clientes a:hover{
+	text-decoration:underline;	
+}
+
+.header #sub_menu_vendas{
+	margin-top:-16px;
+	margin-left:87px;
+	display:none;
+}
+
+.header #sub_menu_vendas a{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:none;
+	color:#333333;
+	margin-right:3px;
+}
+
+.header #sub_menu_vendas a:hover{
+	text-decoration:underline;
+}

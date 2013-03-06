@@ -1,0 +1,106 @@
+body{
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;	
+}
+
+.corpo{
+	margin:0 auto;
+	width:980px;
+	min-height:700px;
+}
+
+.corpo #img_corpo_home{
+	margin-top:45px;
+	margin-left:20px;
+	width:928px;
+	height:127px;
+	background:url(../img/corpo_loja.png);	
+}
+
+.corpo #img_corpo_home #arrecadacao_mes{
+	margin-left:470px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#555;
+        width: 450px;
+        position: absolute;
+        top: 192px;
+}
+
+.corpo #area_busca{
+    width: 928px;
+    min-height: 180px;
+    font-family: Arial;
+    font-size: 13px;
+    margin-left: 20px;
+    background: #FFD1A4;
+    margin-top:14px;
+}
+
+.corpo #area_busca #table_busca{
+    margin-top: 0px;
+    margin-left: 3px;
+}
+
+.campo{
+    width:400px;
+    height: 25px;
+    border: 1px solid #CCC;
+    -moz-border-radius: 7px;  /*-- para Firefox e Flock --*/
+    -webkit-border-radius: 7px;  /* para Chrome e Safari --*/
+    border-radius: 7px;
+    color: #333;
+}
+
+.corpo #faixa{
+	margin-top:15px;
+	margin-left:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;	
+}
+
+.corpo #contexto{
+	margin-left:20px;
+	width:926px;
+	min-height:230px;
+	background:#F9F9F9;	
+        font-family: arial;
+        font-size: 13px;
+        border-left: 1px solid #EAEAEA;
+        border-bottom: 1px solid #EAEAEA;
+        border-right: 1px solid #EAEAEA;
+}
+
+.corpo #contexto #conteudo{
+	padding:42px;
+	margin-left:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#000;
+}
+
+.caixa{
+	width:600px;	
+	height:25px;
+	border:1px solid #CCC;
+        -moz-border-radius: 7px;  /*-- para Firefox e Flock --*/
+        -webkit-border-radius: 7px;  /* para Chrome e Safari --*/
+        border-radius: 7px;
+}
+
+.btn_enviar{
+	margin-left:735px;	
+}
+
+.btn_buscar{
+	margin-left:404px;
+        margin-top: -32px;
+}
+
+#btn_cadastrar{
+    position: absolute;
+    top: 265px;
+    margin-left: 840px;
+}
